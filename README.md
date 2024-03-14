@@ -4,7 +4,7 @@ Embarking on a journey through the realm of Machine Learning, I’ve discovered 
 
 Entrepreneurship has painted my world with challenges, each one a unique opportunity to blend the latest technologies with a human-centric approach to problem-solving 🧩. My expertise extends beyond the binary; it’s about weaving empathy and insight into our digital narratives, ensuring that every solution not only solves but also connects 🌐🤝.
 
- > Reach me at saied.alimoradi@gmai.com
+ **Reach me at:** saied.alimoradi@gmai.com
 
 >  <a href="https://www.linkedin.com/in/saied-alimoradi-197015171/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@saied.alimoradi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
